@@ -1,0 +1,100 @@
+<style type="text/css">
+			* {
+				font-family: Arial, Verdana, sans-serif;
+				color: #665544;
+				text-align: center;}
+#header  {
+  text-align:center;
+   font-size: 25px;
+   color: #DCDCDC;
+ 
+}
+
+h1 { 
+   font-family: 'SportingGrotesqueGras'; 
+   font-weight: normal; 
+   font-style: normal; 
+}
+
+p { 
+   font-family: 'HankenBook'; 
+   font-weight: normal; 
+   font-style: normal; 
+}
+
+
+
+ul {
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    
+}
+
+li, a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-family: 'HankenBook'; 
+   font-weight: normal; 
+   font-style: normal; 
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+
+body {
+  background-image:url("https://c1.staticflickr.com/8/7327/14191746523_d2981e6b29_b.jpg");
+  background-repeat: no-repeat;
+  background-position: center ; 
+   background-size: cover; 
+}
+
+			body {
+				width: 90%;
+				margin: 0 auto;}
+			#content {
+				overflow: auto;}
+		
+  
+			
+			li {
+				display: inline;
+				padding: 0.5em;}
+			
+ .column1  {
+  
+  width: 31.3%;
+  float: left;
+  margin: 1%;  
+}
+
+ .column2  {
+  
+  width: 31.3%;
+  float: left;
+  margin: 1%;
+  color: #DCDCDC;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+		</style>
+
+
