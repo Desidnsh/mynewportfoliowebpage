@@ -7,6 +7,7 @@
   text-align:center;
    font-size: 25px;
    color: #DCDCDC;
+   background-color: #696969; 
  
 }
 
@@ -22,12 +23,14 @@ h2 {
    font-weight: normal; 
    font-style: normal;
   color: #DCDCDC;
+  
 }
 
 p { 
    font-family: 'HankenBook'; 
    font-weight: normal; 
    font-style: normal; 
+  
 }
 
 
@@ -63,6 +66,7 @@ body {
   background-repeat: no-repeat;
   background-position: center ; 
    background-size: cover; 
+  text-align: center;
 }
 
 			body {
@@ -92,17 +96,17 @@ body {
   color: #DCDCDC;
 }
 
+.column3  {
+  
+  width: 31.3%;
+  float: left;
+  margin: 1%;
+  color: #DCDCDC;
+}
 
 
 
 
 
-
-
-
-
-
-
-		</style>
 
 
