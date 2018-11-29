@@ -3,11 +3,16 @@
 				font-family: Arial, Verdana, sans-serif;
 				color: #665544;
 				text-align: center;}
+body {
+text-align: center;
+}
 #header {
   text-align:center;
    font-size: 25px;
-   color: #DCDCDC;
-  background-color: #696969; 
+   color: #f1f1f1; 
+   background-color: #555;
+   border: 5px solid #555;
+  border-radius: 25px;
 }
 h1 { 
    font-family: 'SportingGrotesqueGras'; 
@@ -19,8 +24,11 @@ p {
    font-family: 'HankenBook'; 
    font-weight: normal; 
    font-style: normal;
-   background-color: #696969;
-   text-align: center;   
+   background-color:  #f1f1f1;
+   text-align: center; 
+   border: 5px solid #555;
+  border-radius: 25px;
+   color: #555;	
 }
 
 
