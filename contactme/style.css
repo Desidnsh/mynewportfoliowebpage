@@ -1,13 +1,14 @@
 body {
 text-align: center;
 }
-#header {
+#header  {
   text-align:center;
    font-size: 25px;
-   color: #f1f1f1; 
-   background-color: #555;
-   border: 5px solid #555;
+   color: #DCDCDC;
+  background-color: #555;
+  border: 5px solid #DCDCDC;
   border-radius: 25px;
+ 
 }
 h1 { 
    font-family: 'SportingGrotesqueGras'; 
