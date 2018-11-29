@@ -1,8 +1,8 @@
- 
 #header {
   text-align:center;
    font-size: 25px;
-   color: #DCDCDC;    
+   color: #DCDCDC;
+  background-color: #555;
 }
 
 h1 { 
@@ -101,7 +101,3 @@ input[type=submit]:hover {
   margin: 1%;
   color: #DCDCDC;
 }
-
-
-
-
